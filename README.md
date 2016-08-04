@@ -4,6 +4,7 @@ Materia: Procesamiento Digital de Imagenes
 ## Autores:
 Nombre: Jose Francisco Iannini
 C.I: 24.276.962
+
 Nombre: Jeisson Ferreira
 C.I: 18.003.702
 
@@ -39,7 +40,7 @@ Abrir el documento index.html ubicado en la carpeta src. Este abrira un navegado
 
 ###Opciones a escoger 
 1. Informacion: Despliega un modal con la informacion mas importante de la imagen.
-2. Orginal: Muestra la imagen cargada originalmente.
+2. Original: Muestra la imagen cargada originalmente.
 3. Negativo: Calculo el negativo de la imagen actual y la muestra.
 4. Gris: Convierte la imagen actual en escala de grises.
 5. Espejo Horizontal/Vertical: Aplica el espejo a la imagen segun sea el caso.
