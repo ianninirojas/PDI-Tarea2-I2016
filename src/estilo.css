@@ -54,7 +54,7 @@ input[type="file"] {
 .boton{
 	color: transparent;
 	border: none;
-	background-color:black;
+	background-color:red;
 	color: white;
 	padding: 10px;
 	font-size: 18px;
