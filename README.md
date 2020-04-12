@@ -11,15 +11,15 @@ C.I: 18.003.702
 ## Materia:
 Procesamiento Digital de Images
 
-##Tarea 2
+## Tarea 2
 Operaciones a imagenes de formato .bmp
 
-##Lenguajes Empleados:
+## Lenguajes Empleados:
 1. JavaScript: Manipulacion de imagen
 2. HTML: Interfaz grafica
 3. CSS: Estilo interfaz grafica
 
-##Descripcion
+## Descripcion
 Manipulacion de imagenes en formato .bmp
 
 1. Abrir una imagen en formato BMP sin compresion, de cualquier tipo
@@ -35,10 +35,10 @@ Manipulacion de imagenes en formato .bmp
 11. Aplicar acercamiento y alejamiento (zoom in/out)
 12. Salvar la imagen resultante de las modificaciones realizadas
 
-##Ejecucion
+## Ejecucion
 Abrir el documento index.html ubicado en la carpeta src. Este abrira un navegador web, en donde se encuentra una interfaz la cual tiene una serie de botones.
 
-###Opciones a escoger 
+### Opciones a escoger 
 1. Informacion: Despliega un modal con la informacion mas importante de la imagen.
 2. Original: Muestra la imagen cargada originalmente.
 3. Negativo: Calculo el negativo de la imagen actual y la muestra.
@@ -60,6 +60,6 @@ Abrir el documento index.html ubicado en la carpeta src. Este abrira un navegado
 19. Threshold: Area de texto donde se ingresa el valor que se quiere aplicar para la umbralizacion.
 20. Umbralizar: Umbraliza la imagen segun el threshold ingresado.
 
-##Version
+## Version
 1.0
 
